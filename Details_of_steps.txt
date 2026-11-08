@@ -1,0 +1,15 @@
+
+
+# Chunking Strategy
+One important detail: all-MiniLM-L6-v2 has a maximum input sequence length of 256 tokens. Longer inputs can be truncated, so the script uses relatively small character-based chunks as starting values. Character count is not equivalent to token count; validate actual token lengths before indexing. 
+Sentence Transformers documentation
+
+
+For project evaluation, record these metrics:
+Evaluation metric	Fixed overlap	Sentence-based
+Total chunks	Measure	Measure
+Embedding dimensions	384	384
+Retrieval precision	Evaluate	Evaluate
+Retrieval recall	Evaluate	Evaluate
+Retrieval latency	Measure	Measure
+Answer relevance	Evaluate	Evaluate

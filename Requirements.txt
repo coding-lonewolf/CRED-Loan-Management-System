@@ -1,0 +1,20 @@
+# Cred Banking & FinTech Domain Support Agent Dependencies
+# Core multi-agent orchestration and local LLM
+crewai>=1.15.0
+pydantic>=2.9.0
+
+# Vector database and semantic embeddings
+chromadb>=0.4.22
+sentence-transformers>=2.2.2
+torch>=2.0.0
+
+# Web Gateway & Async API
+fastapi>=0.115.0
+uvicorn>=0.30.0
+websockets>=13.0
+
+# Session Memory & Utilities
+langchain-core>=0.3.0
+appdirs>=1.4.4
+python-multipart>=0.0.9
+requests>=2.31.0

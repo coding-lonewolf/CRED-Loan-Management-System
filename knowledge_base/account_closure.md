@@ -1,0 +1,3 @@
+# Account-Closure Process
+
+An account-closure request should be authenticated and checked for pending transactions, unpaid dues, linked products, holds, and any required notices. The institution should explain any applicable closure charges and the expected processing steps using its current terms, without promising an unsupported completion date. After closure, the customer should receive confirmation through an approved channel and retain any required statements or records. If a dispute, legal hold, or unresolved balance exists, route the request to the appropriate operations team rather than bypassing the control.

@@ -1,0 +1,3 @@
+# KYC Document Requirements
+
+Know Your Customer (KYC) checks help a regulated institution verify identity and address and meet applicable compliance obligations. Depending on the product and the customer's circumstances, accepted evidence may include officially valid identity/address documents, PAN or other tax identification, a photograph, and additional information required by the institution. The exact accepted documents and verification method must follow current rules and the institution's approved process. Collect only information necessary for the stated purpose, protect it, and never request that customers post full identity numbers in an unsecured support channel.

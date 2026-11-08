@@ -1,0 +1,3 @@
+# Fraud-Dispute Resolution Process
+
+When a customer reports a potentially unauthorized transaction or suspicious loan activity, record the report through the approved secure channel and follow the institution's incident workflow. The process may include securing access, blocking or replacing affected instruments where appropriate, preserving evidence, raising a case reference, and referring the matter to the fraud team. Do not promise a reimbursement or resolution date unless an authorized policy and the case facts support it. Escalate suspected identity theft, active account compromise, or a fraud-review flag to an authorized human team.

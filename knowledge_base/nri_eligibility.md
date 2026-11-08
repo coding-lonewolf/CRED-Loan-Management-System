@@ -1,0 +1,3 @@
+# NRI-Account Eligibility
+
+Non-Resident Indian (NRI) banking eligibility and account options depend on residency status under applicable law, the account purpose, source of funds, documentation, and the institution's permitted product offering. Common account categories can have different rules for domestic income, overseas income, repatriation, taxation, and permitted transactions. The institution must verify current regulatory requirements and the customer's specific circumstances before opening or changing an account. Do not infer eligibility from nationality alone, and do not present this fictional guide as legal or tax advice.
